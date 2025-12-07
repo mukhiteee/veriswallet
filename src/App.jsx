@@ -4,6 +4,9 @@ import Shero from '../src/components/shero';
 import Problem from '../src/components/problem';
 import Solution from '../src/components/solution';
 import About from './components/about';
+import Mechanism from './components/mechanism';
+import Footer from './components/footer';
+import Wishlist from './components/wishlist';
 
 const App = () => {
   return (
@@ -13,6 +16,9 @@ const App = () => {
       <About />
       <Problem />
       <Solution />
+      <Mechanism />
+      <Wishlist />
+      <Footer />
     </>
   )
 };
