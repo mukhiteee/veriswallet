@@ -6,7 +6,7 @@ import Solution from '../src/components/solution';
 import About from './components/about';
 import Mechanism from './components/mechanism';
 import Footer from './components/footer';
-import Wishlist from './components/wishlist';
+import Wishlist from './components/waitlist';
 
 const App = () => {
   return (

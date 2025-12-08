@@ -3,7 +3,7 @@ import React from "react";
 const Mechanism = () => {
     return (
         <>
-            <div className="mechanism">
+            <div className="mechanism" id="mechanism">
                 <h2>Mechanism: Beyond Wealth</h2>
                 <p>Your Integrity Score is calculated using four weighted factors that measure true on-chain credibility not just for your balance</p>
                 <div class="score-badge">

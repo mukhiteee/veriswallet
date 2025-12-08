@@ -3,7 +3,7 @@ import React from "react";
 const About = () => {
     return (
         <>
-            <div className="about">
+            <div className="about" id="about">
                 <div className="about-content">
                     <h2>About</h2>
                     <p>The promise of Web3 is a user-owned internet, yet its foundation is criplled by the absence pf persistent, trusthworthy identity. The Integrity Protocol is designed to solve this critical flaw. We are a decentralized reputation layer built directly into the next generation of smart wallets.</p>

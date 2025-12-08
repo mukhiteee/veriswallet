@@ -3,7 +3,7 @@ import React from "react";
 const Problem = () => {
     return (
         <>
-            <div className="problem">
+            <div id="problems" className="problem">
                 <h1 className="problem-header">Problems</h1>
                 <div className="underline"></div>
                 <div className="problem-grid">
