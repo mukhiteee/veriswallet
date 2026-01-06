@@ -1,0 +1,72 @@
+{
+  "name": "Veris Wallet",
+  "short_name": "Veris",
+  "description": "Veris Wallet - Establishing Trust As The Core Web3 Primitive. Persistent, Trustworthy and on-chain identity.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#000000",
+  "theme_color": "#1BA13E",
+  "icons": [
+    {
+      "src": "/logo2.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo2.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["finance", "productivity"],
+  "screenshots": [
+    {
+      "src": "/logo2.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/logo2.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Learn More",
+      "short_name": "Learn",
+      "description": "Learn about Veris Wallet",
+      "url": "/?page=learn",
+      "icons": [
+        {
+          "src": "/logo2.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Join Waitlist",
+      "short_name": "Waitlist",
+      "description": "Join the Veris Wallet waitlist",
+      "url": "/?page=waitlist",
+      "icons": [
+        {
+          "src": "/logo2.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

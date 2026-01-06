@@ -4,8 +4,10 @@ const Header = () => {
   return (
     <>
         <header className="header">
-           <img src="logo2.png" alt="" className="headerlogo"/>
-           <p className="tagline">Wallet</p>
+           <div className="logo-tagline">
+              <img src="/logo2.png" alt="" className="headerlogo"/>
+              <p className="tagline">Wallet</p>
+           </div>
 
            <nav className="headernav">
             <a href="#hero">Hero</a>

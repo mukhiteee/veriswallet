@@ -10,7 +10,7 @@ const About = () => {
                     <p>Our goal is to foster a safer, more meritocratic digital economy. By transforming fragmented on-chain activity into a quantifiable Integrity Score, we create the fundamental layer required to enable real DeFi credit, fair governance, and mass adoption.</p>
                 </div>
                 <div className="about-image">
-                    <img src="logo.png" alt="" />
+                    <img src="/logo.png" alt="" />
                 </div>
             </div>
         </>
